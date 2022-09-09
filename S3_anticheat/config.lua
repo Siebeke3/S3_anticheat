@@ -3,7 +3,7 @@ Config = {}
 Config.Locale = 'en'
 
 Config.whitelist = {
-	'steam:uwid'
+	'steam:uwid'              --Voor de server whitelist
 }
 
 Config.permissie        = "admin" --Voor het gebruik van Ban commands (mod-admin-superadmin)
