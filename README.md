@@ -1,6 +1,6 @@
 # S3_anticheat
 
-This anticheat is ready to use in Fivem server.
+This anticheat is ready to use for Fivem servers.
 
 FUNCTIONS:
 - Discord Webhooks for Bans en Warns
