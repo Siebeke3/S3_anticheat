@@ -8,4 +8,5 @@ FUNCTIONS:
 - Weapon blacklist with a Kill function
 - Ac Whitelist system for admins
 - Blacklisted props
+- Admin permission system ( mod, admin, superadmin )
 - Ready to use Database sql 
