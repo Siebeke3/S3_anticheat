@@ -10,3 +10,6 @@ FUNCTIONS:
 - Blacklisted props
 - Admin permission system ( mod, admin, superadmin )
 - Ready to use Database sql 
+
+
+-- Still in development but be free to use it !!
