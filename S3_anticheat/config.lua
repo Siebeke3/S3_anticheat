@@ -150,6 +150,7 @@ Config.Wapenblacklist={
     "WEAPON_STINGER",
     "WEAPON_MUSKET"
 	-- Als je wilt kan u hier nog meer aan toevoegen ( MAX 50  ! )
+	-- Wanneer iemand een blacklisted wapen heeft word hij onmiddelijk gekilled!
 }
 
 Config.Objectenblacklist={
