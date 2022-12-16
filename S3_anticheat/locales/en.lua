@@ -27,5 +27,5 @@ Locales['en'] = {
 	['was_unbanned']							= ' Is geunbanned',
 	['add']										= 'Voer in /ban (ID) (Aantal dagen) (Ban reden)',
 	['banned_for_continued']					= ' dagen. Om verder te gaan, doe /reason (Ban reden)',
-	['add_offline']							= 'Voer in /banoffline (Aantal dagen) (Steam naam)',
+	['add_offline']							= 'Voer in /banoffline (Aantal dagen) (Steam identifier)',
 }
