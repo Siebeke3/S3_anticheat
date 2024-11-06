@@ -12,4 +12,4 @@ FUNCTIONS:
 - Ready to use Database sql 
 
 
--- Still in development but be free to use it !!
+-- Still in development but feel free to use it !!
